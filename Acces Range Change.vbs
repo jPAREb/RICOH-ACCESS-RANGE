@@ -14,7 +14,7 @@ set windows_pestana = CreateObject("Shell.Application")
 set objeto_leer_doc = CreateObject("Scripting.FileSystemObject")
 dim numero_de_paquetes_ping
 
-s_raiz = "C:\Users\Jordi.pare\Desktop\temp\"
+s_raiz = ".\"
 s_impresoras_incorrectas = s_raiz & "impresoras_incorrectas.csv"
 s_impresoras_correctas = s_raiz & "impresoras_correctas.csv"
 s_rango_impresoras = s_raiz & "rango_impresoras.csv"

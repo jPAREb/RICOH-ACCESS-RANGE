@@ -1,12 +1,12 @@
 '~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'
-'~		  SCRIPT MADE BY JORDI PARÉ			~'
-'~		 	|ACCESS RANGE SCRIPT|			~'
+'~	      SCRIPT MADE BY JORDI PARÉ     ~'
+'~      	|ACCESS RANGE SCRIPT|	    ~'
 '~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'
-'~			  RICOH SANT CUGAT				~'
+'~		RICOH SANT CUGAT            ~'
 '~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'
-'~		TWITTER: @_xJPBx_					~'
-'~		INSTAGRAM: jpareb					~'
-'~		EMAIL: jparebernado@gmail.com		~'
+'~		TWITTER: @_xJPBx_	    ~'
+'~		INSTAGRAM: jpareb	    ~'
+'~	EMAIL: jparebernado@gmail.com	    ~'
 '~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'
 
 set windows=CreateObject("WScript.shell")
@@ -563,12 +563,13 @@ end function
 menu()
 
 '~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'
-'~		  SCRIPT MADE BY JORDI PARÉ			~'
-'~		 	|ACCESS RANGE SCRIPT|			~'
+'~	      SCRIPT MADE BY JORDI PARÉ     ~'
+'~      	|ACCESS RANGE SCRIPT|	    ~'
 '~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'
-'~			  RICOH SANT CUGAT				~'
+'~		RICOH SANT CUGAT            ~'
 '~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'
-'~		TWITTER: @_xJPBx_					~'
-'~		INSTAGRAM: jpareb					~'
-'~		EMAIL: jparebernado@gmail.com		~'
+'~		TWITTER: @_xJPBx_	    ~'
+'~		INSTAGRAM: jpareb	    ~'
+'~	EMAIL: jparebernado@gmail.com	    ~'
 '~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'
+

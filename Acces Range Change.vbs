@@ -564,8 +564,6 @@ menu()
 '~	      SCRIPT MADE BY JORDI PARÉ     ~'
 '~      	|ACCESS RANGE SCRIPT|	    ~'
 '~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'
-'~		RICOH SANT CUGAT            ~'
-'~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'
 '~		TWITTER: @_xJPBx_	    ~'
 '~		INSTAGRAM: jpareb	    ~'
 '~	EMAIL: jparebernado@gmail.com	    ~'
